@@ -1,0 +1,17 @@
+# .NET Compilation results
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+.vscode
+
+# MonoGame Content Pipeline
+Content/bin/
+Content/obj/
+
+# Temporary files
+*.tmp
+*.log
