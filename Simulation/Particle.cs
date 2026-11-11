@@ -7,7 +7,7 @@ public class Particle
     public Vector2 Position { get; set; }
     public Vector2 Velocity { get; set; }
     public Vector2 Acceleration { get; set; }
-    private Vector2 _accumulatedForce { get; set; }
+    private Vector2 _accumulatedForce;
 
     public float Mass { get; set; }
 
